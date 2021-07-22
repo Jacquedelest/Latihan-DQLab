@@ -1,2 +1,2 @@
-# Latihan-DQLab
-Ini adalah latihan-latihan dari DQLab
+# Latihan-DQLab-dengan-Python
+Ini adalah latihan-latihan dari DQLab dengan bahasa pemrograman Python
