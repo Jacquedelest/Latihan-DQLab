@@ -26,7 +26,7 @@ plt.savefig("plot.png")
 plt.show()
 
 
-"Standarisation"
+"Standardization"
 X = wine[['alcohol', 'total_phenols']] 
 
 from sklearn.preprocessing import StandardScaler
